@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mea/CLionProjects/untitled/Template-Pattern/CaffeineBeverage.hpp
+iostream
+-
+
+/home/mea/CLionProjects/untitled/Template-Pattern/Coffee.hpp
+CaffeineBeverage.hpp
+/home/mea/CLionProjects/untitled/Template-Pattern/CaffeineBeverage.hpp
+iostream
+-
+
+/home/mea/CLionProjects/untitled/Template-Pattern/Tea.hpp
+CaffeineBeverage.hpp
+/home/mea/CLionProjects/untitled/Template-Pattern/CaffeineBeverage.hpp
+iostream
+-
+
+/home/mea/CLionProjects/untitled/Template-Pattern/main.cpp
+Tea.hpp
+/home/mea/CLionProjects/untitled/Template-Pattern/Tea.hpp
+Coffee.hpp
+/home/mea/CLionProjects/untitled/Template-Pattern/Coffee.hpp
+

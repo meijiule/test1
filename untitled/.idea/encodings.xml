@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Observer/FileSplitter1.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Observer/FileSplitter2.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Observer/MainForm2.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Strategy/strategy1.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Strategy/strategy2.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Template-Method/template1_app.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Template-Method/template1_lib.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Template-Method/template2_app.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Template-Method/template2_lib.cpp" charset="GBK" />
+  </component>
+</project>

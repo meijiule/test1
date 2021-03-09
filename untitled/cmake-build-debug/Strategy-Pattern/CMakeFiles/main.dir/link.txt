@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/main.dir/DecoyDuck.cpp.o CMakeFiles/main.dir/MallardDuck.cpp.o CMakeFiles/main.dir/RedHeadDuck.cpp.o CMakeFiles/main.dir/RubberDuck.cpp.o CMakeFiles/main.dir/main.cpp.o -o ../bin/main 

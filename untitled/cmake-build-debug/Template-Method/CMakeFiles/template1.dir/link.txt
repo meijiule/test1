@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/template1.dir/template2_app.cpp.o CMakeFiles/template1.dir/template2_lib.cpp.o -o ../bin/template1 

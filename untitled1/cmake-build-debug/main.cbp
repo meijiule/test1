@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="main"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Strategy-pattern\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/mea/CLionProjects/untitled1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mea/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mea/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mea/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mea/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/mea/CLionProjects/untitled1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mea/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mea/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mea/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mea/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/mea/CLionProjects/untitled1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mea/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mea/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mea/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mea/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="/home/mea/CLionProjects/untitled1/cmake-build-debug/bin/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mea/CLionProjects/untitled1/cmake-build-debug/bin/"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mea/CLionProjects/untitled1/cmake-build-debug/Strategy-pattern/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mea/CLionProjects/untitled1/cmake-build-debug/Strategy-pattern/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mea/CLionProjects/untitled1/cmake-build-debug/Strategy-pattern/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mea/CLionProjects/untitled1/cmake-build-debug/Strategy-pattern/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="/home/mea/CLionProjects/untitled1/cmake-build-debug/bin/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mea/CLionProjects/untitled1/cmake-build-debug/bin/"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mea/CLionProjects/untitled1/cmake-build-debug/Strategy-pattern/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mea/CLionProjects/untitled1/cmake-build-debug/Strategy-pattern/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mea/CLionProjects/untitled1/cmake-build-debug/Strategy-pattern/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mea/CLionProjects/untitled1/cmake-build-debug/Strategy-pattern/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeCache.txt">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/3.5.1/CMakeCCompiler.cmake">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/3.5.1/CMakeCXXCompiler.cmake">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/3.5.1/CMakeDetermineCompilerABI_C.bin">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/3.5.1/CMakeDetermineCompilerABI_CXX.bin">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/3.5.1/CMakeSystem.cmake">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/3.5.1/CompilerIdC/a.out">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/3.5.1/CompilerIdCXX/a.out">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/CMakeDirectoryInformation.cmake">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/CMakeOutput.log">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/Makefile.cmake">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/Makefile2">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/Progress/10">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/Progress/count.txt">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/TargetDirectories.txt">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/cmake.check_cache">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/feature_tests.bin">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/feature_tests.c">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/feature_tests.cxx">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/main.dir/C.includecache">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/main.dir/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c.o">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/main.dir/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp.o">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/main.dir/CMakeFiles/feature_tests.c.o">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/main.dir/CMakeFiles/feature_tests.cxx.o">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/main.dir/CXX.includecache">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/main.dir/DecoyDuck.cpp.o">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/main.dir/DependInfo.cmake">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/main.dir/MallardDuck.cpp.o">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/main.dir/RedHeadDuck.cpp.o">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/main.dir/RubberDuck.cpp.o">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/main.dir/build.make">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/main.dir/cmake_clean.cmake">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/main.dir/depend.internal">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/main.dir/depend.make">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/main.dir/flags.make">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/main.dir/link.txt">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/main.dir/main.cpp.o">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/main.dir/progress.make">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/progress.marks">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeLists.txt">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/DecoyDuck.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/DecoyDuck.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/Duck.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/FlyBehavior.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/FlyNoWay.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/FlyWithwings.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/Makefile">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/MallardDuck.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/MallardDuck.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/MuteQuack.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/Quack.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/QuackBehavior.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/RedHeadDuck.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/RedHeadDuck.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/RubberDuck.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/RubberDuck.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/Squeak.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/cmake_install.cmake">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/main">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/main.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Strategy-pattern\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

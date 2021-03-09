@@ -1,0 +1,3 @@
+/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/rebuild_cache.dir
+/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/edit_cache.dir
+/home/mea/CLionProjects/untitled1/Strategy-pattern/CMakeFiles/main.dir

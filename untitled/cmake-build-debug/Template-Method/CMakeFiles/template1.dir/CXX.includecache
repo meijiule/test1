@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mea/CLionProjects/untitled/Template-Method/template2_app.cpp
+template2_lib.cpp
+/home/mea/CLionProjects/untitled/Template-Method/template2_lib.cpp
+iostream
+-
+
+/home/mea/CLionProjects/untitled/Template-Method/template2_lib.cpp
+iostream
+-
+

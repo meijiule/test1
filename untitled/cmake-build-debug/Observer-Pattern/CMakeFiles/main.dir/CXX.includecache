@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mea/CLionProjects/untitled/Observer-Pattern/CurrentConditionsDisplay.hpp
+Observer.hpp
+/home/mea/CLionProjects/untitled/Observer-Pattern/Observer.hpp
+DisplayElement.hpp
+/home/mea/CLionProjects/untitled/Observer-Pattern/DisplayElement.hpp
+iostream
+-
+memory
+-
+
+/home/mea/CLionProjects/untitled/Observer-Pattern/DisplayElement.hpp
+
+/home/mea/CLionProjects/untitled/Observer-Pattern/Observer.hpp
+
+/home/mea/CLionProjects/untitled/Observer-Pattern/Subject.hpp
+
+/home/mea/CLionProjects/untitled/Observer-Pattern/WeatherData.hpp
+Subject.hpp
+/home/mea/CLionProjects/untitled/Observer-Pattern/Subject.hpp
+Observer.hpp
+/home/mea/CLionProjects/untitled/Observer-Pattern/Observer.hpp
+unordered_set
+-
+
+/home/mea/CLionProjects/untitled/Observer-Pattern/main.cpp
+WeatherData.hpp
+/home/mea/CLionProjects/untitled/Observer-Pattern/WeatherData.hpp
+CurrentConditionsDisplay.hpp
+/home/mea/CLionProjects/untitled/Observer-Pattern/CurrentConditionsDisplay.hpp
+

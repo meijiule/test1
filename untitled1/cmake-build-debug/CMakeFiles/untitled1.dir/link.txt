@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/untitled1.dir/Strategy-pattern/main.cpp.o -o untitled1 

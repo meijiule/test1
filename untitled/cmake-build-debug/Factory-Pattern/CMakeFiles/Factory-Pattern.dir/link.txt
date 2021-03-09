@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Factory-Pattern.dir/main.cpp.o -o ../bin/Factory-Pattern 

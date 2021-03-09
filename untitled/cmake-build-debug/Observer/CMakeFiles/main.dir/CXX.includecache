@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mea/CLionProjects/untitled/Observer/FileSplitter1.cpp
+
+/home/mea/CLionProjects/untitled/Observer/MainForm1.cpp
+
